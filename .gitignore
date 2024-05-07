@@ -70,6 +70,6 @@ app.*.map.json
 **/ios/Flutter/
 **/ios/
 
-# Include only essential folders
+# Include only essential folders!
 !lib/
 !assets/
