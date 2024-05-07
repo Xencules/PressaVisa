@@ -73,3 +73,9 @@ app.*.map.json
 # Include only essential folders!
 !lib/
 !assets/
+
+**/linux/
+**/macos/
+**/windows/
+
+.gitignore
